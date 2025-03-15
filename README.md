@@ -1,2 +1,2 @@
-# flutter-test
-Hello world test avd
+1주차 과제 :
+안드로이드 스튜디오로 플러터 개발 환경 구성 및 최초 HelloWorld 앱 실행
